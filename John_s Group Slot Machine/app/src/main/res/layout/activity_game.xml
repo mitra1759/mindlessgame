@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D3E52"
+    tools:context="com.johnnywaity.adntest2.slotmachine.GameActivity">
+
+    <ImageView
+        android:id="@+id/lever"
+        android:layout_width="111dp"
+        android:layout_height="96dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="256dp"
+        android:layout_marginStart="256dp"
+        android:layout_marginTop="32dp"
+        android:contentDescription="@string/desc"
+        android:src="@drawable/lever_clip_art"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.504"
+        app:srcCompat="@drawable/lever_clip_art"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="286dp"
+        android:layout_height="219dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.097"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="95dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/topslot1"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img3"
+                app:srcCompat="@drawable/img3" />
+
+            <ImageView
+                android:id="@+id/midslot1"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img2"
+                app:srcCompat="@drawable/img2" />
+
+            <ImageView
+                android:id="@+id/botslot1"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img1"
+                app:srcCompat="@drawable/img1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="95dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/topslot2"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img3"
+                app:srcCompat="@drawable/img3" />
+
+            <ImageView
+                android:id="@+id/midslot2"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img2"
+                app:srcCompat="@drawable/img2" />
+
+            <ImageView
+                android:id="@+id/botslot2"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img1"
+                app:srcCompat="@drawable/img1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="95dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/topslot3"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img3"
+                app:srcCompat="@drawable/img3" />
+
+            <ImageView
+                android:id="@+id/midslot3"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img2"
+                app:srcCompat="@drawable/img2" />
+
+            <ImageView
+                android:id="@+id/botslot3"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:background="@android:color/white"
+                android:src="@drawable/img1"
+                app:srcCompat="@drawable/img1" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="318dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="40dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/opponentBox"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/myScore"
+            android:layout_width="202dp"
+            android:layout_height="33dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:text="My Score:"
+            android:textColor="#bdd600"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.555" />
+
+        <TextView
+            android:id="@+id/playerRollCount"
+            android:layout_width="63dp"
+            android:layout_height="37dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="0/3"
+            android:textColor="#bdd600"
+            android:textSize="24sp"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/myScore"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.6" />
+    </android.support.constraint.ConstraintLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/opponentBox"
+        android:layout_width="315dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="36dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@android:color/background_dark"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/opponentRollCount"
+            android:layout_width="63dp"
+            android:layout_height="37dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="0/3"
+            android:textColor="#bdd600"
+            android:textSize="24sp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/opponentScore"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.6" />
+
+        <TextView
+            android:id="@+id/opponentScore"
+            android:layout_width="201dp"
+            android:layout_height="35dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Opponent Score:"
+            android:textColor="#bdd600"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.constraint.ConstraintLayout>
