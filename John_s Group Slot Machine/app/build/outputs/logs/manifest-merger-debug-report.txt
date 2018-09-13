@@ -1,189 +1,189 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\9f2d3abf27151db7e75a458be683df60\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\6b81f5965085fbf28329f7b755b4da6f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\187175e6e906214fc1f77022448937d5\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\a3c843578d5b23161ea928c675671d47\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\cdd5a482f3ce93cae7032f9fb650aeeb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\310c22a20475be25509627f3241ea933\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\9e66b31a9ef6320a644617ec71277c5e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\cb8f7ad75a7619ce0e3e9a2eccf1c3f2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\2916f9618a2833eca09a811edc7ee75b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\bb14adbd72ba62a51684b54abd9a2591\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\8809ff438a66464cc6007489a5a6833f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\ef6d1ecea33b3e47192498d415d74677\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\c863aed457aa66be02ca87931f4e31d6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\b462843c8a140ba5ab73b05bd3433848\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\04f92b43a175601cb2366336e550fcb7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\9176a1a720f46949c0f6540da865cb24\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\31d54a65fd7f2e26a439cdc890f7a86f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\28be8b93fd3acbe60e17823c231a98a6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\81949c3683c5a8afd7a0dcea9c3ef40f\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\16c59b5cd366094d0e1f15a853e89a05\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\cd6c33b5a59ac90fe1383669db13a359\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\6c89ba9043783d552d97b907530066e2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6e77debfd3a9827524e7f5458085c7bc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\e9826de94386495b00d9deb66ffe06b4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\095e9ea5ba1fbfde5562a6fd6485f864\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\4738af3d4a41b5e661b9fd5b4c553be7\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff7f139a3b6972183800be13831391e7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\cca71340ce714e18ceb68d10351eb571\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a895abba49ba0d5d2a99df828cacd58f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b68361a5361603eecfd305ca0cd9847b\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\eb583601a532baa0ceeb1fd4f72dc0d7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\2a48ef1396a1f6915f78b99bb3d7c8cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\47aaaa2955f7be75121e2d34eb3ab326\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\c5f4b88c3b84d6d352925adaf29140a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\5354666c672769d9b28955b69cef5225\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\dc47ef03a19a3e4d0f889e6e02da2c23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\71b7e294d38a43f6cf50d9d3a091e09b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\494f813dcb6e32f22fb4a18fabdf4906\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\baa53503cccd6c96db45272f2652ad9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\2aae1a7f2ad0cd23b58e4454fc8d1bb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\02e9c2e38227572c32b4d0763cd4ca42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\d56deca3dbca79c6f33f3270123517b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\cb14ee2ee7c32cd36d25e0ff6a90d04c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\f8aa838aa8dc2a9f33e9314ad0971b87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\2faaa9221e1610d9d068b944291faed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\7a631392361c20f5215c6f9c9dc0de4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\bc49982d6a73d05f7a3b7c80c44dbb07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\d7609a1bf57921ef755b19f959bec5d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\9682585f264a3d1265bd21caac276dd1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\77c516397eb23c00ca0ec2068014dbcb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\7d0ddb2175d0d116f44c335413acd054\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\47e93fa9e01bb4d238c97bf2dd4ed632\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d77afaafaaad1edea91d6eb41c5cca60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\65d7b30e852a1e43fc4d82ab006b238b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\54e0665e903036708bcc0d7b39032080\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\44e8114c08bf2fc6e478e9c019265918\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\99a492066206b0f0e8266358c3793e1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\4b7cca58482de389653d4c1bd7c392d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\83973a202f06107294ae988c2f1714df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e85296986dd7e9be90f3c55f8bed05d1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:3:5-54
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:5:5-68
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:5:5-68
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:5:22-65
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:5:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:6:5-74
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:6:5-74
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:6:22-71
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:6:22-71
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:9:5-29:19
-MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\9f2d3abf27151db7e75a458be683df60\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\9f2d3abf27151db7e75a458be683df60\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\187175e6e906214fc1f77022448937d5\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\187175e6e906214fc1f77022448937d5\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\81949c3683c5a8afd7a0dcea9c3ef40f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\81949c3683c5a8afd7a0dcea9c3ef40f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\16c59b5cd366094d0e1f15a853e89a05\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\16c59b5cd366094d0e1f15a853e89a05\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\eb583601a532baa0ceeb1fd4f72dc0d7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\eb583601a532baa0ceeb1fd4f72dc0d7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\47aaaa2955f7be75121e2d34eb3ab326\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\47aaaa2955f7be75121e2d34eb3ab326\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\9682585f264a3d1265bd21caac276dd1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\9682585f264a3d1265bd21caac276dd1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\77c516397eb23c00ca0ec2068014dbcb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\77c516397eb23c00ca0ec2068014dbcb\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\81949c3683c5a8afd7a0dcea9c3ef40f\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\9682585f264a3d1265bd21caac276dd1\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:15:9-40
 activity#slotmachine.johnnywaity.com.slotmachine.MainActivity
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:theme
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:18:13-77
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:18:13-77
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:22:27-74
 activity#slotmachine.johnnywaity.com.slotmachine.GameActivity
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:25:9-27:80
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:25:9-27:80
 	android:theme
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:27:13-77
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:27:13-77
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:26:13-41
 activity#slotmachine.johnnywaity.com.slotmachine.BTConfig
-ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:28:9-55
+ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:28:9-55
 	android:name
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml:28:19-43
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml:28:19-43
 uses-sdk
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\9f2d3abf27151db7e75a458be683df60\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\9f2d3abf27151db7e75a458be683df60\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\6b81f5965085fbf28329f7b755b4da6f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\6b81f5965085fbf28329f7b755b4da6f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\187175e6e906214fc1f77022448937d5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\187175e6e906214fc1f77022448937d5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\a3c843578d5b23161ea928c675671d47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\a3c843578d5b23161ea928c675671d47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\cdd5a482f3ce93cae7032f9fb650aeeb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\cdd5a482f3ce93cae7032f9fb650aeeb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\310c22a20475be25509627f3241ea933\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\310c22a20475be25509627f3241ea933\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\9e66b31a9ef6320a644617ec71277c5e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\9e66b31a9ef6320a644617ec71277c5e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\cb8f7ad75a7619ce0e3e9a2eccf1c3f2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\cb8f7ad75a7619ce0e3e9a2eccf1c3f2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\2916f9618a2833eca09a811edc7ee75b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\2916f9618a2833eca09a811edc7ee75b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\bb14adbd72ba62a51684b54abd9a2591\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\bb14adbd72ba62a51684b54abd9a2591\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\8809ff438a66464cc6007489a5a6833f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\8809ff438a66464cc6007489a5a6833f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\ef6d1ecea33b3e47192498d415d74677\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\ef6d1ecea33b3e47192498d415d74677\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\c863aed457aa66be02ca87931f4e31d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\c863aed457aa66be02ca87931f4e31d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\b462843c8a140ba5ab73b05bd3433848\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\b462843c8a140ba5ab73b05bd3433848\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\04f92b43a175601cb2366336e550fcb7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\04f92b43a175601cb2366336e550fcb7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\9176a1a720f46949c0f6540da865cb24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\9176a1a720f46949c0f6540da865cb24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\31d54a65fd7f2e26a439cdc890f7a86f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\31d54a65fd7f2e26a439cdc890f7a86f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\28be8b93fd3acbe60e17823c231a98a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\28be8b93fd3acbe60e17823c231a98a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\81949c3683c5a8afd7a0dcea9c3ef40f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\81949c3683c5a8afd7a0dcea9c3ef40f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\16c59b5cd366094d0e1f15a853e89a05\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\16c59b5cd366094d0e1f15a853e89a05\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\cd6c33b5a59ac90fe1383669db13a359\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\cd6c33b5a59ac90fe1383669db13a359\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\6c89ba9043783d552d97b907530066e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\6c89ba9043783d552d97b907530066e2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6e77debfd3a9827524e7f5458085c7bc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6e77debfd3a9827524e7f5458085c7bc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\e9826de94386495b00d9deb66ffe06b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\e9826de94386495b00d9deb66ffe06b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\095e9ea5ba1fbfde5562a6fd6485f864\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\095e9ea5ba1fbfde5562a6fd6485f864\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\4738af3d4a41b5e661b9fd5b4c553be7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\4738af3d4a41b5e661b9fd5b4c553be7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff7f139a3b6972183800be13831391e7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff7f139a3b6972183800be13831391e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\cca71340ce714e18ceb68d10351eb571\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\cca71340ce714e18ceb68d10351eb571\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a895abba49ba0d5d2a99df828cacd58f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a895abba49ba0d5d2a99df828cacd58f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b68361a5361603eecfd305ca0cd9847b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\johnn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b68361a5361603eecfd305ca0cd9847b\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\eb583601a532baa0ceeb1fd4f72dc0d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\eb583601a532baa0ceeb1fd4f72dc0d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\2a48ef1396a1f6915f78b99bb3d7c8cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\2a48ef1396a1f6915f78b99bb3d7c8cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\47aaaa2955f7be75121e2d34eb3ab326\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\47aaaa2955f7be75121e2d34eb3ab326\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\c5f4b88c3b84d6d352925adaf29140a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\c5f4b88c3b84d6d352925adaf29140a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\5354666c672769d9b28955b69cef5225\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\5354666c672769d9b28955b69cef5225\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\dc47ef03a19a3e4d0f889e6e02da2c23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\dc47ef03a19a3e4d0f889e6e02da2c23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\71b7e294d38a43f6cf50d9d3a091e09b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\71b7e294d38a43f6cf50d9d3a091e09b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\494f813dcb6e32f22fb4a18fabdf4906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\494f813dcb6e32f22fb4a18fabdf4906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\baa53503cccd6c96db45272f2652ad9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\baa53503cccd6c96db45272f2652ad9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\2aae1a7f2ad0cd23b58e4454fc8d1bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\2aae1a7f2ad0cd23b58e4454fc8d1bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\02e9c2e38227572c32b4d0763cd4ca42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\02e9c2e38227572c32b4d0763cd4ca42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\d56deca3dbca79c6f33f3270123517b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\d56deca3dbca79c6f33f3270123517b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\cb14ee2ee7c32cd36d25e0ff6a90d04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\cb14ee2ee7c32cd36d25e0ff6a90d04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\f8aa838aa8dc2a9f33e9314ad0971b87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\f8aa838aa8dc2a9f33e9314ad0971b87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\2faaa9221e1610d9d068b944291faed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\2faaa9221e1610d9d068b944291faed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\7a631392361c20f5215c6f9c9dc0de4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\7a631392361c20f5215c6f9c9dc0de4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\bc49982d6a73d05f7a3b7c80c44dbb07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\bc49982d6a73d05f7a3b7c80c44dbb07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\d7609a1bf57921ef755b19f959bec5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\d7609a1bf57921ef755b19f959bec5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\9682585f264a3d1265bd21caac276dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\9682585f264a3d1265bd21caac276dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\77c516397eb23c00ca0ec2068014dbcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\77c516397eb23c00ca0ec2068014dbcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\7d0ddb2175d0d116f44c335413acd054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\7d0ddb2175d0d116f44c335413acd054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\47e93fa9e01bb4d238c97bf2dd4ed632\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\47e93fa9e01bb4d238c97bf2dd4ed632\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d77afaafaaad1edea91d6eb41c5cca60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d77afaafaaad1edea91d6eb41c5cca60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\65d7b30e852a1e43fc4d82ab006b238b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\65d7b30e852a1e43fc4d82ab006b238b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\54e0665e903036708bcc0d7b39032080\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\54e0665e903036708bcc0d7b39032080\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\44e8114c08bf2fc6e478e9c019265918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\44e8114c08bf2fc6e478e9c019265918\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\99a492066206b0f0e8266358c3793e1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\99a492066206b0f0e8266358c3793e1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\4b7cca58482de389653d4c1bd7c392d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\4b7cca58482de389653d4c1bd7c392d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\83973a202f06107294ae988c2f1714df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\83973a202f06107294ae988c2f1714df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e85296986dd7e9be90f3c55f8bed05d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rc211\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e85296986dd7e9be90f3c55f8bed05d1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\johnn\Documents\SlotMachine\SlotMachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rc211\Documents\GitHub\mindlessgame\John_s Group Slot Machine\app\src\main\AndroidManifest.xml

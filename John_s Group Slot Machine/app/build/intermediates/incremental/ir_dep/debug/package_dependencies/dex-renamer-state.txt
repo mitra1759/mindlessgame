@@ -1,4 +1,4 @@
-#Sun Sep 09 22:38:36 CDT 2018
-base.0=C\:\\Users\\johnn\\Documents\\SlotMachine\\SlotMachine\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+#Thu Sep 13 14:07:44 CDT 2018
+base.0=C\:\\Users\\rc211\\Documents\\GitHub\\mindlessgame\\John_s Group Slot Machine\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.0=classes.dex
 renamed.0=classes.dex
