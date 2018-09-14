@@ -12,7 +12,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity{
     private Button star=  findViewById(R.id.start);
-    private ImageView pendulum = findViewById(R.id.pendulum);
+    private ImageView pendulu = findViewById(R.id.pendulum);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity{
 
         star.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                
+                pendulu.setImageResource(R.drawable.test);
             }
         });
     }
